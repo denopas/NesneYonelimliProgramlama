@@ -16,7 +16,7 @@ Yordamsal programlamadaki büyük ve karmaşık sistemleri tasarlamak yerine, bi
 - Çok biçimlilik (Polymorphism)
 
 ## Derse ait Medium Yazısı
-- https://www.youtube.com/playlist?list=PLculWlrKWPZdkNUYU4VCebIfW2oDT1Qhz
+- https://medium.com/@denizkilinc/nesne-y%C3%B6nelimli-programlama-object-oriented-programming-dersleri-12-saat-video-d6679e47fdae
 
 ## Derse ait Youtube Videoları
 - https://www.youtube.com/playlist?list=PLculWlrKWPZdkNUYU4VCebIfW2oDT1Qhz
